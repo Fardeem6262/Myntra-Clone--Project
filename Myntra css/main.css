@@ -3,7 +3,7 @@
     box-sizing: border-box;
     padding: 0;
 }
- /* header & nav */
+  /* header & nav */
 .photo{
     width: 45px;
     height: 45px;
@@ -134,4 +134,51 @@
     width: 12rem;
     background: no-repeat;
     position: relative;
+}
+
+/* round images  */
+
+.RoundImg{
+    width: 11rem;
+}
+
+#imagesGRR{
+    width: 1340px;
+    background-color: darkgrey;
+}
+
+.imgSolid{
+    width: 1340px;
+    background-color: darkgrey;
+}
+
+.imGGGt{
+    width: 11rem;
+    background: no-repeat;
+    display: cover;
+}
+.wiDTDD{
+    width: 100%;
+}
+.mlml{
+    width: 100%;
+}
+
+.GorupimgTY{
+    width: 10.5rem;
+    margin-top: 2px;
+}
+.CARDS{
+    width: 20rem;
+    height: auto;
+    position: relative;
+}
+.CARimgg{
+    width: 11rem;
+}
+.CARimgg2{
+    width: 11.9rem;
+}
+.bnbn{
+    width: 21rem;
 }
