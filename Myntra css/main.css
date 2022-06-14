@@ -202,8 +202,8 @@
 /* footers secto  */
 
 .sectionsFOOt{
-    width: 100rem;
-    height: 34rem;
+    width: 100%;
+    height: 60rem;
      background-color: darkgrey;
 }
 .h6hg{
@@ -229,4 +229,73 @@
 .hhh{
     margin-left: 5rem;
     margin-top: -3rem;
+}
+
+.h6hgs{
+    margin-right: 85rem;
+    margin-top: -5rem;
+    color: #000;
+    font-size: smaller;
+}
+.htag{
+    margin-top: 5rem;
+}
+.htags{
+    margin-top: 3rem;
+}
+.pppt{
+    color: #000;
+    margin-left: 5rem;
+    color: #696b79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    margin-top: 0.5rem;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+}
+.psps{
+    margin-left: 19rem;
+    margin-top: -5rem;
+}
+.pppts{
+    margin-left: 19rem;
+    margin-top: -5px;
+    color: #696b79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+}
+.h6ttgg{
+    margin-left: 31rem;
+    margin-top: -23rem;
+}
+.imgcd{
+    margin-left: 33rem;
+    width: 9rem;
+    height: 42px;
+    margin-top: -17rem;
+}
+.imgcds{
+    width: 9rem;
+    height: 42px;
+    margin-top: -17rem;
+}
+.imgcdss{
+    margin-top: -13rem;
+    margin-left: 35rem;
+}
+.socalmid{
+    width: 40px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+}
+.paraGRAp{
+    margin-left: 5rem;
+    font-size: medium;
 }
