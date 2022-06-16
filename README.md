@@ -13,4 +13,9 @@ along with Ashutosh Lawania and Vineet Saxena; Myntra sold on-demand personalize
    dont work  carousel  
    i cant finish it 
 
+   little issu for footer design 
+   i can finish full desing footer
+
+   next page [profile page] use html and css desing 
+
    

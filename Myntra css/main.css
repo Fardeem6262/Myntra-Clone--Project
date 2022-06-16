@@ -203,7 +203,7 @@
 
 .sectionsFOOt{
     width: 100%;
-    height: 60rem;
+    height: 100rem;
      background-color: darkgrey;
 }
 .h6hg{
@@ -298,4 +298,70 @@
 .paraGRAp{
     margin-left: 5rem;
     font-size: medium;
+    color: #696b79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+}
+.tag6{
+    margin-left: 3rem;
+}
+#paG1{
+    margin-left: 3rem;
+    margin-top: 2rem;
+    color: #696b79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+}
+.number{
+    color: #696b79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+    margin-left: 60rem;
+}
+.number2{
+    color: #696b79;
+    display: block;
+    font-size: 15px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+    margin-left: 60rem;
+    font-weight: 500;
+}
+.ppp5{
+    color: #696b79;
+    display: block;
+    font-size: 11px;
+    text-decoration: none;
+    padding-bottom: 5px;
+    cursor: pointer;
+    line-height: normal;
+    font-weight: 500;
+    width: 38rem;
+    margin-top: 1rem;
+    margin-left: 3rem;
+}
+.ppp3{
+    font-size: 15px;
+    margin-left: 3rem;
+}
+.font1{
+    font-size: small;
+    width: 39rem;
+}
+.font12{
+    width: 25rem;
 }
