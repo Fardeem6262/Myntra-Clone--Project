@@ -1,0 +1,229 @@
+name{
+    font-family: Whitney;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    margin-top: 3rem;
+    color: #282c3f;
+}
+.name2{
+    font-family: Whitney;
+    font-size: 20px;
+    font-weight: 500;
+    color: #696b79;
+    margin-left: 8rem;
+}
+.textLLTT{
+    font-family: Whitney;
+    font-size: 12px;
+    font-weight: 500;
+    margin-left: 40rem;
+    color: #3e4152;
+}
+.textb{
+    font-family: Whitney;
+    font-size: 11px;
+    text-align: left;
+    color: #94969f;
+    margin-left: 40rem;
+}
+.rightbuttan{
+    font-family: Whitney;
+    font-size: 15px;
+    font-weight: 500;
+    color: #14cda8;
+    border-radius: 4px;
+    margin-left: 70rem;
+    border: solid 1px #14cda8;
+    background: white;
+    margin-top: -18rem;
+}
+.borderhh{
+
+    background-color: gainsboro;
+    border-radius: 5px;
+    border: 2px;
+
+}
+.kljknm{
+    font-family: Whitney;
+    font-size: 12px;
+    font-weight: 500;
+    text-align: left;
+    color: #282c3f;
+    margin-bottom: 16px;
+}
+.lelet{
+    font-family: Whitney;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    color: skyblue;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.lelets{
+    font-family: Whitney;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.ssds{
+    font-family: Whitney;
+    font-size: 14px;
+    font-weight: 500;
+    text-align: left;
+    color: #696b79;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.tect{
+    text-align: end;
+}
+.flout-end{
+    font-family: Whitney;
+    font-size: 14px;
+    text-align: center;
+    color: #3e4152;
+}
+.yuppi{
+    padding: 15px 63px;
+    font-family: whitney;
+    font-size: 14px;
+    font-weight: 500;
+    color: #14cda8;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    border-radius: 2px;
+    margin-left: 36rem;
+    margin-top: 3rem;
+    border: solid 1px #14cda8;
+    background: transparent;
+
+}
+
+
+
+
+
+
+
+
+
+
+  /* header & nav */
+.photo{
+    width: 45px;
+    height: 45px;
+    margin-top: 1rem;
+}
+.left{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 12px;
+    width: 0 120px;
+    height: 20px;
+    text-decoration: none;
+    margin-top: 1rem;
+    color: #000;
+    font-weight: bold;
+
+}
+.text{
+    text-decoration: none;
+}
+/* . */
+.vbvb{
+    border-radius: 10px;
+}
+/* profile */
+ .imggg{
+     width: 12px;
+     color: white;
+ }
+.profile{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.input2{
+    width: 20rem;
+    margin-top: 2rem;
+}
+.a{
+    color: #000;
+}
+.new{
+    margin-top: 2rem;
+}
+.rrrr{
+    background-color: pink;
+    width: 80rem;
+    height: 100%;
+}
+.section1{
+    width: 100%;
+    height: 100%;
+    background-color: pink;
+    margin-top: 9rem;
+}
+.cardd{
+    width: 535px;
+    height: 530px;
+    color: #000;
+    justify-content: center;
+    text-align: center;
+    margin-top: 8rem;
+    margin-left: 30rem;
+}
+.imigpaj{
+    margin-top: -8rem;
+}
+.xasd{
+
+    margin-left: -14rem;
+    font-family: WhitneySSm;
+    font-size: 30px;
+    font-weight: 700;
+}
+.welcome-header-small{
+    font-size: 16px;
+    font-weight: 400;
+    color: #535766;
+}
+
+.bbnnbbbbbbbbbbbbbbb{
+    margin-top: 1rem;
+    order: 1px solid #d4d5d9;
+    font-size: 14px;
+    padding: 11px 12px;
+    line-height: 16px;
+    height: auto;
+    color: #282c3f;
+}
+.nummo{
+    color: #94969f;
+    top: 10px;
+    left: 12px;
+    font-size: 14px;
+    position: absolute;
+    pointer-events: none;
+}
+.dert{
+    width: 14rem;
+    background-color: #ff3f6c;
+    text-align: center;
+    justify-content: center;
+    padding: 12px;
+    color: #fff;
+    margin-top: 2rem;
+    margin-left: 9rem;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+}
+.qqrr{
+    margin: 30px 0;
+}
